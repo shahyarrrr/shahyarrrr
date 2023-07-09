@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @shahyarrrr
+- 👀 I’m interested in Linux and Security
+- 🌱 I’m currently learning LPIC1 and network +
+- 🕮 i know something about Linux and Python, i am studing mech eng in univercity
